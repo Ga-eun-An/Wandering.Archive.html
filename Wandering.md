@@ -1,4 +1,3 @@
-# Wandering.Archive.html
 <!DOCTYPE html>
 <html lang="ko">
 <head>
